@@ -1,0 +1,11 @@
+dicom
+pynrrd
+Pillow
+configparser
+pyyaml
+beautifulsoup4
+nibabel
+scikit-image
+matplotlib
+scipy
+numpy
